@@ -1,0 +1,5 @@
+src/pages/UserDetail.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/UserDetail.tsx(3,27): error TS6133: 'Phone' is declared but its value is never read.
+src/pages/UserDetail.tsx(3,34): error TS6133: 'Globe' is declared but its value is never read.
+src/pages/UserDetail.tsx(3,59): error TS6133: 'Briefcase' is declared but its value is never read.
+src/pages/Users.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
