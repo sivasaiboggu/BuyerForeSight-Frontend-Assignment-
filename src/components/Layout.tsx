@@ -1,6 +1,6 @@
 import React from 'react';
-import { Sidebar } from './Sidebar.tsx';
-import { Header } from './Header.tsx';
+import { Sidebar } from './Sidebar';
+import { Header } from './Header';
 import './Layout.css';
 
 export function Layout({ children }: { children: React.ReactNode }) {

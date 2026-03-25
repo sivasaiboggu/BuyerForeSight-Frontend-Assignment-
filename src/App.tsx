@@ -1,6 +1,6 @@
 import { Layout } from './components/Layout';
 import { UsersPage } from './pages/Users';
-import { UserDetailPage } from './pages/UserDetail.tsx';
+import { UserDetailPage } from './pages/UserDetail';
 import { Routes, Route, Navigate, BrowserRouter } from 'react-router-dom';
 
 function App() {
